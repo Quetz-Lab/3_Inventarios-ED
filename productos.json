@@ -1,0 +1,37 @@
+[
+  {
+    "sku": "A123",
+    "nombre": "Fragmento Espectral",
+    "precioCentavos": 2999,
+    "stock": 12,
+    "emocion": "nostalgia"
+  },
+  {
+    "sku": "B234",
+    "nombre": "Gema del Olvido",
+    "precioCentavos": 4599,
+    "stock": 7,
+    "emocion": "culpa"
+  },
+  {
+    "sku": "C345",
+    "nombre": "Luz de Varynja",
+    "precioCentavos": 9999,
+    "stock": 2,
+    "emocion": "redenci�n"
+  },
+  {
+    "sku": "D456",
+    "nombre": "Esquirla de Silencio",
+    "precioCentavos": 1999,
+    "stock": 20,
+    "emocion": "confusi�n"
+  },
+  {
+    "sku": "E567",
+    "nombre": "Memoria Fractal",
+    "precioCentavos": 5799,
+    "stock": 5,
+    "emocion": "esperanza"
+  }
+]
