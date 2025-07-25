@@ -5,7 +5,8 @@
 #include <fstream>
 #include <vector>
 #include <iomanip>
-#include "json.hpp"
+#include <curl/curl.h>
+#include <nlohmann/json.hpp>
 #include <cmath>
 #include <chrono>
 #include <format>
