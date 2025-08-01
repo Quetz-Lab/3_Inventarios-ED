@@ -3,5 +3,5 @@ Version: 3.12.0
 Depends: vcpkg-cmake, vcpkg-cmake-config
 Architecture: x64-windows
 Multi-Arch: same
-Abi: 0818f26404dc1c90f0d0e2f4968f95931ef97ded6d62ac9036a7740190d46ed1
+Abi: 26d898f66a8fec2a3ab69d3c7a94d7deb6f368f7aa239fbdf8c389cd6dd4b3dc
 Description: JSON for Modern C++

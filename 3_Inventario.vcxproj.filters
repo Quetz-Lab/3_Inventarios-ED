@@ -26,5 +26,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="productos.json" />
+    <None Include="vcpkg.JSON" />
   </ItemGroup>
 </Project>

@@ -143,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="productos.json" />
+    <None Include="vcpkg.JSON" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
